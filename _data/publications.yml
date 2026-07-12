@@ -7,7 +7,7 @@
 
 - title: "CLINIC: Evaluating Multilingual Trustworthiness in Language Models for Healthcare"
   authors: "Akash Ghosh, Srivarshinee Sridhar, Raghav Kaushik Ravi, Muhsin Muhsin, Sriparna Saha, Chirag Agarwal"
-  venue: "arXiv, 2025"
+  venue: "ICML 2026"
   image: "/images/publications/clinic.png"
   abstract: "We present CLINIC, a Comprehensive Multilingual Benchmark to evaluate the trustworthiness of language models in healthcare across five key dimensions: truthfulness, fairness, safety, robustness, and privacy, operationalized through 18 diverse tasks, spanning 15 languages."
   pdf: "https://arxiv.org/pdf/2512.11437"
