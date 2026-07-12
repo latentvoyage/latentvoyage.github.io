@@ -1,0 +1,14 @@
+- venue: "EMNLP"
+  year: "2026"
+  role: "Reviewer"
+  logo: "/images/services/emnlp.png"
+
+- venue: "WSS Workshop, ICML"
+  year: "2026"
+  role: "Reviewer"
+  logo: "/images/services/icml.png"
+
+- venue: "AIWILD Workshop, ICML"
+  year: "2026"
+  role: "Reviewer"
+  logo: "/images/services/icml.png"

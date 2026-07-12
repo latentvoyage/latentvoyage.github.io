@@ -1,0 +1,15 @@
+<div class="services-section" id="services">
+  <h2>Academic Services</h2>
+  <div class="services-list">
+    {% for service in site.data.services %}
+    <div class="service-item">
+      {% if service.logo %}
+      <img class="service-logo" src="{{ service.logo }}" alt="{{ service.venue }}">
+      {% endif %}
+      <span class="service-venue">{{ service.venue }}</span>
+      <span class="service-year">{{ service.year }}</span>
+      <span class="service-role">{{ service.role }}</span>
+    </div>
+    {% endfor %}
+  </div>
+</div>
