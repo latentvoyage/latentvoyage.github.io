@@ -4,6 +4,11 @@
     {% for item in site.data.affiliations %}
     <div class="affiliation-item">
       <img src="{{ item.logo }}" alt="{{ item.name }}">
+      <div class="affiliation-meta">
+        {% if item.role %}<div class="affiliation-role">{{ item.role }}</div>{% endif %}
+        {% if item.degree %}<div class="affiliation-degree">{{ item.degree }}</div>{% endif %}
+        {% if item.dates %}<div class="affiliation-dates">{{ item.dates }}</div>{% endif %}
+      </div>
     </div>
     {% endfor %}
   </div>
