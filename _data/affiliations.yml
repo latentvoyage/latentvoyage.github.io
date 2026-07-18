@@ -1,7 +1,7 @@
 - name: "Carnegie Mellon University"
   logo: "/images/cmu.png"
   role: "Master's Student"
-  degree: "Master of Science in Machine Learning"
+  degree: ""
   dates: "2026 – Present"
 
 - name: "Microsoft Research"
@@ -13,7 +13,7 @@
 - name: "NUS"
   logo: "/images/nus.png"
   role: "Research Visitor"
-  degree: "Research Collaboration"
+  degree: ""
   dates: "2024"
 
 - name: "Samsung Research"
@@ -25,5 +25,5 @@
 - name: "Vellore Institute of Technology"
   logo: "/images/vit.png"
   role: "Bachelor's Student"
-  degree: "Bachelor of Technology"
+  degree: ""
   dates: "2022 – 2026"
