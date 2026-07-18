@@ -20,19 +20,19 @@ To learn more about my background, feel free to check out my Resume. I am always
 ---
 
 <!-- TIMELINE -->
-{% include timeline.html %}
+<!-- {% include timeline.html %} -->
 
 ---
 
 <!-- SELECTED PUBLICATIONS -->
-{% include publications.html %}
+<!-- {% include publications.html %} -->
 
 ---
 
 <!-- AFFILIATIONS -->
-{% include affiliations.html %}
+<!-- {% include affiliations.html %} -->
 
 ---
 
 <!-- ACADEMIC SERVICES -->
-{% include services.html %}
+<!-- {% include services.html %} -->
